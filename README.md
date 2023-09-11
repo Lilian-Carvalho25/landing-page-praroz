@@ -4,6 +4,8 @@ Aqui, temos uma landing page feita com muito carinho.
 ## ⚙ Funcionalidades 
 - Página linda, e bem construída <br><br>
 
+<img src="https://i.imgur.com/tqvojtx.png" width="600px"/>
+
 ## 🖥️ Tecnologias utilizadas:<br>
 ###
 
@@ -17,4 +19,4 @@ Aqui, temos uma landing page feita com muito carinho.
 
 ###
 
-**Link do site:** <i>[clique aqui]() <br>
+**Link do site:** <i>[clique aqui](https://lilian-carvalho25.github.io/landing-page-praroz/) <br>
